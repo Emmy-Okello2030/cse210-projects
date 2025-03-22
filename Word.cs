@@ -1,4 +1,4 @@
-﻿namespace ScriptureMemorizer;
+namespace ScriptureMemorizer;
 
 public class Word
 {
